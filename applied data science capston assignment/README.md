@@ -1,4 +1,4 @@
-```markdown
+
 # Coursera Applied Data Science Capstone
 This repository contains all files for the Coursera Applied Data Science Capstone project, part of the IBM Data Science Professional Certificate. The project predicts the success of SpaceX Falcon 9 rocket landings to help a startup bid competitively.
 
@@ -17,4 +17,4 @@ This repository contains all files for the Coursera Applied Data Science Capston
 ## Requirements
 - Python 3.8+
 - Libraries: pandas, numpy, matplotlib, seaborn, folium, plotly, dash, scikit-learn, requests, beautifulsoup4, sqlite3
-```
+
